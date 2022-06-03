@@ -1,24 +1,19 @@
-# AuthendicationVue
+# Thank you for Accessing my Project
 
-This template should help get you started developing with Vue 3 in Vite.
+I am sorry if the code is janky since this is my first website project. 
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+## After git cloning the file you should run code below in the VSCode
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
-
+### To run the webpage locally on your device use the code below.
 ```sh
 npm run dev
+```
+#### PS. I did not protect my API tokens, since it was too complicated for me. 
+```sh
+It will be great if you can ignore them when accessing! Thanks :)
 ```
 
